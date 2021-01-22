@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  author: one
+  year: 2021-01-21
+  pupblication_date: 2021-01-21
+  pages: 1
+  body: MyText
+
+two:
+  title: MyString
+  author: two
+  year: 2021-01-21
+  pupblication_date: 2021-01-21
+  pages: 1
+  body: MyText
